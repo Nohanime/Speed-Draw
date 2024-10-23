@@ -1,0 +1,26 @@
+@import url(normalize.css);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --accent-base: ;
+    --accent-bg-subtle: ;
+    --accent-bg: ;
+    --accent-bg-hover: ;
+    --accent-bg-active: ;
+    --accent-line: ;
+    --accent-border: ;
+    --accent-border-hover: ;
+    --accent-solid: ;
+    --accent-solid-hover: ;
+    --accent-text: ;
+    --accent-text-contrast: ;
+}
+
+body {
+    color: var();
+}
