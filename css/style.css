@@ -7,18 +7,24 @@
 }
 
 :root {
-    --accent-base: ;
-    --accent-bg-subtle: ;
-    --accent-bg: ;
-    --accent-bg-hover: ;
-    --accent-bg-active: ;
-    --accent-line: ;
-    --accent-border: ;
-    --accent-border-hover: ;
-    --accent-solid: ;
-    --accent-solid-hover: ;
-    --accent-text: ;
-    --accent-text-contrast: ;
+    --accent-base: #EEEDEB;
+    --accent-bg-subtle: #ECE6DF;
+    --accent-bg: #EBDCCC;
+    --accent-bg-hover: #ECCCA7;
+    --accent-bg-active: #E8BF8E;
+    --accent-line: #DEB380;
+    --accent-border: #CDA26D;
+    --accent-border-hover: #BE8C4C;
+    --accent-solid: #AF7620;
+    --accent-solid-hover: #A26908;
+    --accent-text: #515151;
+    --accent-text-contrast: #202020;
+
+    --primary: #00AEFD;
+    --theme: #B236D6;
+    --submit: #1EB948;
+    --page: #F8EEEC;
+    --bg-draw: #FFD5A3;
 }
 
 body {
