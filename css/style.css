@@ -71,7 +71,7 @@ a:not(.nav-left>a) {
     padding: 12px 24px;
     background-color: var(--submit);
     color: var(--white);
-    transition: all ease-in-out 0.3s;
+    transition: all ease 0.3s;
     border: 1px solid transparent;
 }
 
@@ -87,7 +87,7 @@ a:hover:not(.nav-left>a) {
 
 .nav-left img {
     width: 60px;
-    transition: all ease-in-out 0.3s;
+    transition: all ease 0.3s;
 }
 
 .nav-left img:hover {
@@ -99,14 +99,13 @@ a:hover:not(.nav-left>a) {
 }
 
 .mid {
-    width: 80%;
     background-color: var();
     border-radius: 16px;
     padding: 40px;
 }
 
 .presentation {
-    margin: 40% 0;
+    margin: 25% 0 30% 0;
 }
 
 .presentation a,
